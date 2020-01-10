@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Noor Pratap Singh</title>
+    <link>npsingh.github.io/authors/</link>
+      <atom:link href="npsingh.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 17:25:46 -0500</lastBuildDate>
+    <image>
+      <url>/npsingh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>npsingh.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>**Noor Pratap Singh**</title>
+      <link>npsingh.github.io/authors/noor-pratap-singh/</link>
+      <pubDate>Thu, 09 Jan 2020 17:25:46 -0500</pubDate>
+      <guid>npsingh.github.io/authors/noor-pratap-singh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinod PK</title>
+      <link>npsingh.github.io/authors/vinod-pk/</link>
+      <pubDate>Thu, 09 Jan 2020 17:25:46 -0500</pubDate>
+      <guid>npsingh.github.io/authors/vinod-pk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bapi Raju</title>
+      <link>npsingh.github.io/authors/bapi-raju/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>npsingh.github.io/authors/bapi-raju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>npsingh.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>npsingh.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a first year Ph.D. student at the Department ofComputer Science, University of Maryland, College Park. I am working with &lt;a href=&#34;http://hcbravo.org/&#34;&gt;Dr. Hector Corrada Bravo&lt;/a&gt;, exploring approaches for the analysis of single cell data. I am interested in the development and application of statistical methods for the analysis of different high-throughput data.&lt;/p&gt;
+&lt;p&gt;Prior to joining UMD, I was at IIIT-Hyderabad, India working under &lt;a href=&#34;https://faculty.iiit.ac.in/~vinod.pk/team.html&#34;&gt;Dr. Vinod PK&lt;/a&gt;. As a part of my MS, I built machine learning models for predicting stages of cancer integrating RNASeq and DNA Methylation data and explored the relationship between these two platforms &lt;a href=&#34;https://drive.google.com/drive/folders/1AMXr2XkLY8bgizfaDQ1iNyMhlckBLzuX?usp=sharing&#34;&gt;(link)&lt;/a&gt;. During the summer of 2017, I worked as an intern under &lt;a href=&#34;https://www.zmbh.uni-heidelberg.de/Anders/default.shtml&#34;&gt;Dr. Simon Anders&lt;/a&gt; at Heidelberg, Germany.&lt;/p&gt;
+&lt;p&gt;Outside academics, I can be found playing badminton or squash or reading history books.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
