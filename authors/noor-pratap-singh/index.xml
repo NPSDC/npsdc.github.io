@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>**Noor Pratap Singh** | Noor Pratap Singh</title>
-    <link>npsingh.github.io/authors/noor-pratap-singh/</link>
-      <atom:link href="npsingh.github.io/authors/noor-pratap-singh/index.xml" rel="self" type="application/rss+xml" />
+    <link>npsdc.github.io/authors/noor-pratap-singh/</link>
+      <atom:link href="npsdc.github.io/authors/noor-pratap-singh/index.xml" rel="self" type="application/rss+xml" />
     <description>**Noor Pratap Singh**</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 17:25:46 -0500</lastBuildDate>
     <image>
-      <url>/npsingh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/npsdc.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>**Noor Pratap Singh**</title>
-      <link>npsingh.github.io/authors/noor-pratap-singh/</link>
+      <link>npsdc.github.io/authors/noor-pratap-singh/</link>
     </image>
     
     <item>
       <title>Integrative analysis of DNA methylation and gene expression in Papillary Renal Cell Carcinoma (under review)</title>
-      <link>npsingh.github.io/publication/igams/</link>
+      <link>npsdc.github.io/publication/igams/</link>
       <pubDate>Thu, 09 Jan 2020 17:25:46 -0500</pubDate>
-      <guid>npsingh.github.io/publication/igams/</guid>
+      <guid>npsdc.github.io/publication/igams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning models to predict the progression from early to late stages of papillary renal cell carcinoma</title>
-      <link>npsingh.github.io/publication/bisp/</link>
+      <link>npsdc.github.io/publication/bisp/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>npsingh.github.io/publication/bisp/</guid>
+      <guid>npsdc.github.io/publication/bisp/</guid>
       <description></description>
     </item>
     
