@@ -5,12 +5,20 @@
     <link>npsdc.github.io/publication_types/2/</link>
       <atom:link href="npsdc.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Noor Pratap Singh</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Noor Pratap Singh</copyright><lastBuildDate>Thu, 09 Jan 2020 17:25:46 -0500</lastBuildDate>
     <image>
       <url>/npsdc.github.io/images/icon_hua0233a9eebba67f68c34bee7459c813e_141236_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>npsdc.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Integrative analysis of DNA methylation and gene expression in Papillary Renal Cell Carcinoma</title>
+      <link>npsdc.github.io/publication/igams/</link>
+      <pubDate>Thu, 09 Jan 2020 17:25:46 -0500</pubDate>
+      <guid>npsdc.github.io/publication/igams/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine learning models to predict the progression from early to late stages of papillary renal cell carcinoma</title>
